@@ -1,2 +1,6 @@
 this is my computer
+<<<<<<< HEAD
 dont worry
+=======
+nope my friend
+>>>>>>> 3d9ae1b8342ba093e22fb01dd212e7c4837c31c6
