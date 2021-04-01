@@ -1,3 +1,4 @@
 this is computer
 hướng đối tượng oop  
- 
+cấu trúc giải thuật 
+giải tích 
