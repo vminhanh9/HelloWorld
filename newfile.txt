@@ -3,4 +3,4 @@ hướng đối tượng oop
 cấu trúc giải thuật 
 giải tích          
  
-đại số tuyến tính
+đại số tuyến tính 10 diem nhe
