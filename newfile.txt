@@ -1,2 +1,2 @@
 this is computer
-hướng đối tượng oop     
+hướng đối tượng oop      
